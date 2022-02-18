@@ -48,9 +48,9 @@ const adminJs = new AdminJS({
             white: '#FEF7F0'
         },
         softwareBrothers: false,
-        companyName: 'Pesto',
-        logo: '/images/pesto-title.png',
-        favicon: '/images/favicon.png',
+        companyName: 'Sample',
+        // logo: '/images/sample-title.png',
+        // favicon: '/images/favicon.png',
     },
     // dashboard: {
     //     handler: async () => {
